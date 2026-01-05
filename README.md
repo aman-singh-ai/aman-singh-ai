@@ -15,7 +15,8 @@ B.Tech CSE (AI) Student | Python & AI Learner 🚀
 - 🐍 Learning Python & Artificial Intelligence  
 - 🤖 Exploring AI tools & No-Code platforms  
 - 🌱 Believe in *learning by building & sharing*  
-- 🚀 Building projects in public  
+- 🚀 Building projects in public
+- 🚀 Focused on building small but meaningful projects consistently
 
 ---
 
