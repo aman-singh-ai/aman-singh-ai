@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
 
 <h3 align="center">
-B.Tech CSE (AI) Student | Python & AI Learner 🚀
+B.Tech CSE (AI) Student | Python, AI & Web Enthusiast 🚀
 </h3>
 
 <p align="center">
@@ -43,6 +43,7 @@ https://aman-singh-ai.github.io/new-year-2026/
 HTML • CSS • JavaScript • Canvas Animation
 
 ✨ Built with ❤️ by **VishTechh**
+🔜 More projects coming soon...
 ---
 
 
@@ -68,11 +69,6 @@ HTML • CSS • JavaScript • Canvas Animation
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-singh-ai&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 ---
 
 ### 💭 Quote I Follow
