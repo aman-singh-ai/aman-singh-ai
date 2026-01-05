@@ -19,10 +19,31 @@ B.Tech CSE (AI) Student | Python & AI Learner 🚀
 
 ---
 
+
 ## 🧰 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css,github,ai" />
 </p>
+
+---
+
+---
+
+## 🚀 Featured Project
+
+### 🎆 Happy New Year 2026 – Interactive Website
+An interactive greeting website with animations, falling petals & surprise reveal 🎁
+
+🔗 **Live Demo:**  
+👉 
+https://aman-singh-ai.github.io/new-year-2026/
+
+🛠 **Tech Used:**  
+HTML • CSS • JavaScript • Canvas Animation
+
+✨ Built with ❤️ by **VishTechh**
+---
+
 
 ---
 
