@@ -5,7 +5,7 @@ B.Tech CSE (AI) Student | Python & AI Learner 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;AI+%26+No-Code+Learner;Building+in+Public;Future+AI+Engineer&center=true&width=500&height=40">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;AI+%26+No-Code+Explorer;Building+in+Public;Future+AI+Engineer&center=true&width=500&height=40">
 </p>
 
 ---
@@ -69,8 +69,14 @@ HTML • CSS • JavaScript • Canvas Animation
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-singh-ai&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aman-singh-ai&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-singh-ai&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ### 💭 Quote I Follow
