@@ -59,9 +59,6 @@ HTML • CSS • JavaScript • Canvas Animation
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/aman-singh-1041473a3" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
   <a href="https://www.instagram.com/vishtechh" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
