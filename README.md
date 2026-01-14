@@ -32,17 +32,12 @@ B.Tech CSE (AI) Student | Python, AI & Web Enthusiast 🚀
 
 ## 🚀 Featured Project
 
-### 🎆 Happy New Year 2026 – Interactive Website
-An interactive greeting website with animations, falling petals & surprise reveal 🎁
+### 🎆 An animated interactive New Year website built using HTML, CSS & JavaScript.
+🔗-https://aman-singh-ai.github.io/new-year-2026/
 
-🔗 **Live Demo:**  
-👉 
-https://aman-singh-ai.github.io/new-year-2026/
+🌐 3D Interactive Portfolio-
+https://vishtech-voyage-into-ai.vercel.app
 
-🛠 **Tech Used:**  
-HTML • CSS • JavaScript • Canvas Animation
-
-✨ Built with ❤️ by **VishTechh**
 🔜 More projects coming soon...
 ---
 
