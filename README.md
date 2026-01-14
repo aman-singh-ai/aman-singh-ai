@@ -32,8 +32,10 @@ B.Tech CSE (AI) Student | Python, AI & Web Enthusiast 🚀
 
 ## 🚀 Featured Project
 
-### 🎆 An animated interactive New Year website built using HTML, CSS & JavaScript.
-🔗-https://aman-singh-ai.github.io/new-year-2026/
+### 🌐Portfolio: https://app-8hw1k84ua3up.appmedo.com
+
+🎆 New Year 2026 Interactive site
+-https://aman-singh-ai.github.io/new-year-2026/
 
 🌐 3D Interactive Portfolio-
 https://vishtech-voyage-into-ai.vercel.app
