@@ -3,21 +3,21 @@
   <!-- Waving Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=297&color=gradient&text=Welcome%20to%20my%20GitHub%20Profile&fontSize=46&fontAlign=48&textBg=false&animation=scaleIn&fontAlignY=46" width="100%"/>
 
-  <!-- Top Badges / Status -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/•%20SYSTEM%20READY-E0F7FA?style=for-the-badge&logoColor=0288D1&labelColor=0288D1" />
-    <img src="https://img.shields.io/badge/•TECHNEEKX%20DESIGNER-E0F7FA?style=for-the-badge&logoColor=0288D1&labelColor=0288D1" />
-    <img src="https://img.shields.io/badge/•CSE%20(AI)%202ND%20YEAR-E0F7FA?style=for-the-badge&logoColor=0288D1&labelColor=0288D1" />
-  </p>
-
-  <br/>
-
   <!-- Comic / Hand-drawn Title -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=38&pause=1000&color=03A9F4&center=true&vCenter=true&width=650&height=70&lines=HI%2C+I'M+AMAN+SINGH;DESIGNER+%40+TECHNEEKX;FRONTEND+%2B+AI+EXPLORER" alt="Typing SVG" />
   </a>
 
   <br>
+
+   <!-- Top Badges / Status -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/• B.Tech CSE(AI)-2ndyear-blue"/>
+    <img src="https://img.shields.io/badge/• TechNeekX-Designer-purple"/>
+    <img src="https://img.shields.io/badge/• AI-Research_Member-yellow"/>
+  </p>
+
+  <br/>
 
   <p align="center">
     <i>Developer • Creator • Tech Enthusiast | Building the future, one line of code & design at a time ✨</i>
@@ -28,29 +28,29 @@
   <!-- Dev Illustration -->
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" width="120" alt="Aman Singh" />
 
-  <br></br>
+  <br>
 
   <!-- Hub & Quick Access Buttons -->
   <p align="center">
-    <a href="https://aman-singh-ai.github.io" target="_blank">
+    <a href="https://aman-singh-ai.github.io/aman-singh-ai-linktree/" target="_blank">
       <img src="https://img.shields.io/badge/⚡%20ALL%20LINKS%20(LINKTREE)-03A9F4?style=for-the-badge&logo=linktree&logoColor=white" />
     </a>
     &nbsp;
-    <a href="https://drive.google.com/drive/folders/YOUR_DRIVE_FOLDER_ID" target="_blank">
+    <a href="https://drive.google.com/drive/folders/1-6sZkXUnOdQ3T6zcKy2RsOlc7BUvP6BY" target="_blank">
       <img src="https://img.shields.io/badge/🎨%20DESIGN%20DRIVE%20FOLDER-0288D1?style=for-the-badge&logo=googledrive&logoColor=white" />
     </a>
   </p>
 
   <!-- Profiles Bar -->
   <p align="center">
-    <a href="https://leetcode.com" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    <a href="https://leetcode.com/u/5H28mUas0L/"_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-rectangle&logo=leetcode&logoColor=black" />
     </a>
-    <a href="https://www.credly.com" target="_blank">
+    <a href="https://www.credly.com/users/aman-singh.7864d971/badges/credly" target="_blank">
       <img src="https://img.shields.io/badge/Credly%20Badges-FF6B00?style=flat-square&logo=credly&logoColor=white" />
     </a>
-    <a href="https://g.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Google%20Devs-4285F4?style=flat-square&logo=google&logoColor=white" />
+    <a href="https://www.skills.google/public_profiles/c2265d1f-05a6-498e-aae3-750444208add" target="_blank">
+      <img src="https://img.shields.io/badge/Google%20Skills-4285F4?style=flat-square&logo=google&logoColor=white" />
     </a>
   </p>
 
