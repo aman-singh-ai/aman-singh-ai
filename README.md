@@ -57,25 +57,24 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 📈 GitHub Analytics
+<div align="center">
+
+## 📈 **GitHub Analytics & Commits Profile**
 
 <div align="center">
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aman-singh-ai&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aman-singh-ai&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aman-singh-ai&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aman-singh-ai&theme=radical&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aman-singh-ai&theme=react" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aman-singh-ai&theme=react" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aman-singh-ai&theme=react" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aman-singh-ai&theme=react&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman-singh-ai&theme=radical" width="100%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman-singh-ai&theme=react" width="100%" alt="Profile Details"/>
 </p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<!-- Animated Sky-Blue Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
