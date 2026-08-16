@@ -74,17 +74,8 @@
 
 </div>
 
-<!-- Animated Sky-Blue Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aman-singh-ai&bg_color=ffffff&color=03a9f4&line=0288d1&point=00e5ff&area=true&hide_border=false&border=03a9f4)](https://github.com/aman-singh-ai)
-
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- Animated Sky-Blue Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
