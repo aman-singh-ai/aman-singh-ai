@@ -1,6 +1,4 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
   <!-- Waving Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=297&color=gradient&text=Welcome%20to%20my%20GitHub%20Profile&fontSize=46&fontAlign=48&textBg=false&animation=scaleIn&fontAlignY=46" width="100%"/>
 
@@ -58,3 +56,35 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aman-singh-ai&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aman-singh-ai&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aman-singh-ai&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aman-singh-ai&theme=radical&utcOffset=5.5" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman-singh-ai&theme=radical" width="100%" alt="Profile Details"/>
+</p>
+
+</div>
+
+<!-- Animated Sky-Blue Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aman-singh-ai&bg_color=ffffff&color=03a9f4&line=0288d1&point=00e5ff&area=true&hide_border=false&border=03a9f4)](https://github.com/aman-singh-ai)
+
+</div>
+
+<!-- Animated Sky-Blue Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
