@@ -59,7 +59,7 @@
 
 <div align="center">
 
-# 📈 **GitHub Analytics & Commits Profile**
+## 📈 **GitHub Analytics**
 
 <div align="center">
 
@@ -82,7 +82,7 @@
 <div align="center">
 
 
-# 🕹️ Contribution Snake
+## 🕹️ Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhairyagothi/dhairyagothi/output/pacman-contribution-graph-dark.svg">
