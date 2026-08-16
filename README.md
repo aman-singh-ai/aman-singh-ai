@@ -55,14 +55,3 @@
   </p>
 
 </div>
-
----
-
-### 🎨 <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=20&pause=1000&color=03A9F4&width=200&height=30&lines=ABOUT+ME" alt="About Me" />
-
-
-Name: Aman Singh
-Education: B.Tech in CSE (Artificial Intelligence) - 2nd Year
-Role: Design Member @ TechneekX
-Focus: UI/UX Design • Frontend Development • C/C++ • AI Tools
-Tagline: "Learn. Build. Experiment. Improve. 🚀"
