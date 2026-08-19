@@ -1,5 +1,6 @@
-<div align="center">
-  <!-- Waving Header Banner -->
+  <div align="center"
+ <!-- Waving Header Banner -->
+
   <img src="https://capsule-render.vercel.app/api?type=waving&height=297&color=gradient&text=Welcome%20to%20my%20GitHub%20Profile&fontSize=46&fontAlign=48&textBg=false&animation=scaleIn&fontAlignY=46" width="100%"/>
 
   <!-- Comic / Hand-drawn Title -->
@@ -64,6 +65,10 @@
 ## 📈 **GitHub Analytics**
 
 <div align="center">
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aman-singh-ai&theme=react&hide_border=true&background=0d0d2b&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aman-singh-ai&theme=react" alt="Repos per Language" />
