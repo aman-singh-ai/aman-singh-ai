@@ -67,7 +67,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aman-singh-ai&theme=dracula&hide_border=true&background=0d0d2b&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=aman-singh-ai&theme=react&hide_border=true&background=0d0d2b&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
 </p>
 
 <p align="center">
