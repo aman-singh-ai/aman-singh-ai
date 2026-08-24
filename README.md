@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=38&pause=1000&color=03A9F4&center=true&vCenter=true&width=650&height=70&lines=HI%2C+I'M+AMAN+SINGH;DESIGNER+%40+TECHNEEKX;FRONTEND+%2B+AI+EXPLORER" alt="Typing SVG" />
   </a>
 
-  <br>
+  </br>
 
    <!-- Top Badges / Status -->
   <p align="center">
