@@ -67,8 +67,11 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aman-singh-ai&theme=react&hide_border=true&background=0d0d2b&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=aman-singh-ai&theme=tokyonight&hide_border=false" alt="" />
 </p>
+<p align="center">
+  <a href="https://streak-stats.demolab.com/?user=aman-singh-ai&theme=react&hide_border=false">Or click here</a>
+  
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aman-singh-ai&theme=react" alt="Repos per Language" />
