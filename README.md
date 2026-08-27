@@ -74,14 +74,14 @@
   
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aman-singh-ai&theme=react" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aman-singh-ai&theme=react" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aman-singh-ai&theme=react" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aman-singh-ai&theme=react&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aman-singh-ai&theme=react&hide_border=false" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aman-singh-ai&theme=react&hide_border=false" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aman-singh-ai&theme=react&hide_border=false" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aman-singh-ai&theme=react&hide_border=false&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman-singh-ai&theme=react" width="100%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman-singh-ai&theme=react&hide_border=false" width="100%" alt="Profile Details"/>
 </p>
 
 </div>
