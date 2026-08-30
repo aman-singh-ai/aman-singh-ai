@@ -17,16 +17,6 @@
     <img src="https://img.shields.io/badge/• AI-Research_Member-yellow"/>
   </p>
 
-  <br/>
-
-  <p align="center">
-    <i>Developer • Creator • Tech Enthusiast | Building the future, one line of code & design at a time ✨</i>
-  </p>
-
-  
-
-  <br/>
-
   <!-- Dev Illustration -->
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" width="120" alt="Aman Singh" />
 
