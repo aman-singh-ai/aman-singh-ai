@@ -2,7 +2,7 @@
     
  <!-- Waving Header Banner -->
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%20to%20my%20GitHub%20Profile&fontSize=33&fontAlign=50&textBg=false&animation=scaleIn&fontAlignY=46" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=225&color=gradient&text=Welcome%20to%20my%20GitHub%20Profile&fontSize=33&fontAlign=50&textBg=false&animation=scaleIn&fontAlignY=46" width="100%"/>
 
   <!-- Comic / Hand-drawn Title -->
   <a href="https://git.io/typing-svg">
