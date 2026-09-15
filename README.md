@@ -58,7 +58,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aman-singh-ai&theme=tokyonight&hide_border=false" alt="" />
+  <img src="https://streak-stats.demolab.com/?user=aman-singh-ai&theme=tokyonight&hide_border=false" alt="STREAK" />
 </p>
 <p align="center">
   <a href="https://streak-stats.demolab.com/?user=aman-singh-ai&theme=react&hide_border=false">Or click here</a>
